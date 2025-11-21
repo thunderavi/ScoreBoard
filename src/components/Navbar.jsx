@@ -65,6 +65,19 @@ const Navbar = () => {
               </Link>
             </li>
 
+            {/* External Link - CricketCast */}
+            <li className="nav-item">
+              <a 
+                className="nav-link" 
+                href="https://cricket-cast.vercel.app/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                onClick={handleLinkClick}
+              >
+                CricketCast
+              </a>
+            </li>
+
             {isAuthenticated ? (
               <>
                 {/* Logged in navigation */}
@@ -78,6 +91,7 @@ const Navbar = () => {
                     Match
                   </Link>
                 </li>
+                
                 <li className="nav-item">
                   <Link className={`nav-link ${isActive('/dashboard')}`} to="/dashboard" onClick={handleLinkClick}>
                     Dashboard
