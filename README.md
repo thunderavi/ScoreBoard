@@ -136,7 +136,7 @@ npm run dev
 
 ## **🖥️ Screenshots**
 
-```markdown
+
 
 <img width="1882" height="881" alt="matchsetup" src="https://github.com/user-attachments/assets/d969a688-1018-4a6a-952d-7c32575b5e8c" />
 <img width="1892" height="876" alt="tossmatch" src="https://github.com/user-attachments/assets/47c820de-cf40-4afe-99fe-0ff3f9b7ae0d" />
@@ -148,7 +148,7 @@ npm run dev
 <img width="1890" height="886" alt="crciket team" src="https://github.com/user-attachments/assets/0d791b8f-a092-4cc4-82ea-e2891f9bb5ba" />
 <img width="1911" height="887" alt="Team" src="https://github.com/user-attachments/assets/948c14fd-93db-4319-bb16-74653c4d2f5a" />
 
----
+
 
 ## **🏆 Key Highlights**
 
