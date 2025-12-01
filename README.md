@@ -159,16 +159,4 @@ npm run dev
 
 ---
 
-## **📌 License**
 
-MIT License
-
----
-
-If you want, I can also:
-✅ Add **dark theme banners**
-✅ Generate **SVG animations**
-✅ Build a **logo for your project**
-✅ Make this README more aesthetic (gradient header, sections, badges)
-
-Just tell me!
