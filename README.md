@@ -1,5 +1,5 @@
-<img width="1913" height="871" alt="user dahboard" src="https://github.com/user-attachments/assets/d2e74b64-6ed9-41a5-9c23-38986b3c739c" />
-# **📌 Cricket Scoreboard with AI Commentary**
+
+📌 Cricket Scoreboard with AI Commentary
 
 Real-time cricket scoreboard with **AI-generated ball-by-ball commentary** using **Google Gemini**, and **live audio streaming** using **Google Cloud Text-to-Speech (TTS)**.
 
@@ -26,45 +26,7 @@ Real-time cricket scoreboard with **AI-generated ball-by-ball commentary** using
 
 ---
 
-## **💠 Animated Scoreboard (CSS Animation — works in browser)**
 
-```html
-<div class="scoreboard-anim">
-  <div class="team">Team A <span class="score">145/8</span></div>
-  <div class="ball">🏏</div>
-</div>
-
-<style>
-.scoreboard-anim{
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  width:420px;
-  padding:14px 18px;
-  border-radius:12px;
-  background:linear-gradient(135deg,#071021,#0f2a3a);
-  color:#ffd36b;
-  font-family:Inter, sans-serif;
-  box-shadow:0 6px 20px rgba(0,0,0,.45);
-}
-.team{font-weight:700; font-size:20px;}
-.score{
-  margin-left:10px; padding:6px 10px;
-  color:#fff; background:rgba(255,255,255,0.15);
-  border-radius:6px;
-}
-.ball{
-  font-size:26px;
-  animation: bounce 1s infinite alternate ease-in-out;
-}
-@keyframes bounce{
-  from{transform: translateY(0) rotate(-8deg);}
-  to{transform: translateY(-10px) rotate(6deg);}
-}
-</style>
-```
-
----
 
 ## **🛠️ Tech Stack**
 
@@ -84,7 +46,7 @@ Real-time cricket scoreboard with **AI-generated ball-by-ball commentary** using
 * Google Gemini API
 * Google Cloud Text-to-Speech
 
-### **DevOps**
+### DevOps
 
 * Docker
 * MongoDB Atlas
@@ -109,13 +71,13 @@ Real-time cricket scoreboard with **AI-generated ball-by-ball commentary** using
 
 ---
 
-## **🚀 How to Run the Project**
+## 🚀 How to Run the Project
 
 ### **1️⃣ Clone Repo**
 
 ```bash
-git clone <your-repo-url>
-cd cricket-cast
+git clone (https://github.com/thunderavi/ScoreBoard)
+cd filename
 ```
 
 ### **2️⃣ Backend Setup**
